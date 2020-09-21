@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results passed="4" total="9" failed="4" incomplete="1">
+<suite configfailurepolicy="continue" guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [seetest-examples]">
+  <test name="seetest-examples">
+<classes>
+      <class name="io.seetest.examples.WebUrlSpecificDeviceTest">
+      <test-method id="368335" name="Test Mobile Website on IOS Safari" status="Passed" type="mobile" platform="IPad Pro" os="IOS 9.3.2" duration="00m:43s" created="06/15/2020 14:29:25" started="06/15/2020 14:29:31" executor="grid" user="janani">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method id="3412345" name="Login and Payment" status="Failed" type="mobile" platform="IPhone 5c" os="IOS 10.2.1" duration="01m:02s" created="none" started="06/20/2020 14:01:45" executor="grid" user="ruchi">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method id="368154" name="Chrome Test#1" status="Incomplete" type="desktop" platform="WIN10" os="Chrome 63.0.3239.0" duration="01m:26s" started="06/24/2020 11:53:50" executor="grid" user="janani" created="none">
+<reporter-output> </reporter-output>
+</test-method>
+  <test-method id="5683352" name="Test IOS Safari" status="Passed" type="mobile" platform="Iphone 6" os="IOS 10.3.3" duration="00m:43s" created="06/17/2020 14:30:25" started="06/17/2020 14:31:31" executor="grid" user="janani">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method id="7412348" name="Test purpose" status="Failed" type="mobile" platform="IPhone 6" os="IOS 10.2.1" duration="01m:02s" created="none" started="06/21/2020 14:01:45" executor="manual" user="ruchi">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method id="1681549" name="Chrome" status="Passed" type="desktop" platform="WIN10" os="Chrome 63.0.3239.0" duration="01m:26s" started="06/24/2020 10:53:50" executor="grid" user="janani" created="none">
+<reporter-output> </reporter-output>
+</test-method>
+ <test-method id="1683366" name="Test Mobile" status="Passed" type="mobile" platform="IPad" os="IOS 9.3.0" duration="00m:43s" created="06/15/2020 14:29:25" started="06/10/2020 14:29:31" executor="grid" user="janani">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method id="123098" name="Login page" status="Failed" type="mobile" platform="IPhone 7" os="IOS 10.3.1" duration="01m:02s" created="none" started="06/23/2020 14:01:45" executor="grid" user="ruchi">
+<reporter-output> </reporter-output>
+</test-method>
+<test-method id="93681541" name="Chrome Test#2" status="Failed" type="desktop" platform="WIN10" os="Chrome 63.0.3239" duration="01m:26s" started="06/25/2020 11:53:50" executor="grid" user="janani" created="none">
+<reporter-output> </reporter-output>
+</test-method>
+      </class>
+  </classes> 
+</test>
+</suite> 
+</testng-results>
