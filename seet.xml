@@ -28,7 +28,7 @@
 <test-method id="123098" name="Login page" status="Failed" type="mobile" platform="IPhone 7" os="IOS 10.3.1" duration="01m:02s" created="none" started="06/23/2020 14:01:45" executor="grid" user="ruchi">
 <reporter-output> </reporter-output>
 </test-method>
-<test-method id="93681541" name="Chrome Test#2" status="Failed" type="desktop" platform="WIN10" os="Chrome 63.0.3239" duration="01m:26s" started="06/25/2020 11:53:50" executor="grid" user="janani" created="none">
+<test-method id="93681541" name="ChromePage" status="Failed" type="desktop" platform="WIN10" os="Chrome 63.0.3239" duration="01m:26s" started="06/25/2020 11:53:50" executor="grid" user="janani" created="none">
 <reporter-output> </reporter-output>
 </test-method>
       </class>
